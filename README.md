@@ -5,9 +5,12 @@
     * High level overview
     
 * Functionality and MVP Features
+    * Base Grid Generation
+      * Use can adjust grid size.
     * Cells 
        * Cell Types 
-         * Still lifes (Cells that do not move
+         - Still lifes (Cells that do not move)
+         - Oscillators (Moving Cells)
     * Generation Parameters
       * Adjustable Base Rules - 
          - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
@@ -21,8 +24,8 @@
     * Technology 2
         * Description
         * Justification
-    ...
-Implementation Timeline
+
+* Implementation Timeline
     * Most important category
     * Daily breakdown
     * Aim to be done by Friday
