@@ -3,9 +3,9 @@
 ## Background and Overview
     * Motivation for project
       - I want to have a better understanding of algorithms and have always been fascinated with simulations. 
-    ### High level overview
+    * High level overview
       - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-      - Adjust certain para
+      - Adjust certain generation parameters on the fly.
     
 ### Functionality and MVP Features
     * Base Grid Generation
