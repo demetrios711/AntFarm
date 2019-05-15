@@ -8,6 +8,8 @@
       - Adjust certain generation parameters on the fly.
     
 ### Functionality and MVP Features
+    * Basic CSS + HTML
+      * Coloration for grid.
     * Base Grid Generation
       * Use can adjust grid size.
     * Cells 
@@ -20,7 +22,8 @@
          2. Any live cell with two or three live neighbours lives on to the next generation.     
          3. Any live cell with more than three live neighbours dies, as if by overpopulation.
          4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
-    * Generation Parameter Modification
+    * Interact Rules Modification
+      - User's can add or change existing rules.
  
 ### Architecture and Technologies
     * Technology 1
