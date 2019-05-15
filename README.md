@@ -16,6 +16,7 @@
        * Cell Types 
          - Still lifes (Cells that do not move)
          - Oscillators (Moving Cells)
+         - Customizable Cells
     * Generation Parameters
       * Base Rules - 
          1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
@@ -26,14 +27,22 @@
       - User's can add or change existing rules.
  
 ### Architecture and Technologies
-    * Technology 1
-        * Description
-        * Justification
-    * Technology 2
-        * Description
-        * Justification
+    * HTML5
+        * Justification - Required
+    * JS
+        * Justification - Required
 
 ### Implementation Timeline
-    * Most important category
-    * Daily breakdown
-    * Aim to be done by Friday
+    * Day 0
+      - Grid Generation + Custom Styling     
+    * Day 1
+      - Basic Cell Types
+    * Day 2
+      - Base Rules
+      - Customizable Cell Types
+    * Day 3 
+      - Customizable Additional Rules
+    * Day 4
+      - Real Time Rule Changes
+    * Day 5
+      - Filler
